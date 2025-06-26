@@ -61,7 +61,7 @@ A comunicação entre cliente e servidor é feita por mensagens **textuais via U
 - Permite pedir carta ou parar
 - Exibe o resultado da rodada
 
-## 🔧 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Python 3.10+
 - Biblioteca padrão `socket` para comunicação UDP
 
